@@ -28,7 +28,8 @@ header .container .main-head{
     position: inherit;
 }
 .imp{
-    background-color: transparent;
+    background-color: #ffffff7e;
+    font-size: 20px;
 }
 
 header .container .main-head button{
